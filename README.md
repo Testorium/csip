@@ -1,0 +1,1 @@
+# Cosine similarity in PostgreSQL (PGVECTOR)
