@@ -1,0 +1,7 @@
+sentence-transformers
+asyncpg
+fastapi
+uvicorn
+loguru
+pyhumps
+gunicorn

@@ -1,0 +1,3 @@
+CSIP:
+    ✔ convert question to vector @done(25-06-04 16:13)
+    ✔ search for question in db @done(25-06-04 16:13)
